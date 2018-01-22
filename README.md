@@ -1,2 +1,3 @@
 # estudando-python
-Aqui vou colocar os meus protótipos de estudo de Python3
+
+Olá galera, sou Gabriel Camurça e amo Jesus e programação. Pretendo utilizar meus conhecimentos para propagar o Evangelho
